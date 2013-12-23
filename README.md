@@ -1,7 +1,9 @@
-Heroku Buildpack for Node.js
+Heroku-Grunt Buildpack for Node.js
 ============================
 
-This is the official [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Node.js apps. If you fork this repository, please **update this README** to explain what your fork does and why it's special.
+~~This is the official [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Node.js apps. If you fork this repository, please **update this README** to explain what your fork does and why it's special.~~
+
+This is a fork of the official Heroku NodeJS Buildpack. Attempting to add Grunt integration (different to the grunt-buildpack found [here](https://github.com/mbuchetics/heroku-buildpack-nodejs-grunt)) as well as provide best practices to Grunt users trying to deploy to Heroku.
 
 
 How it Works
